@@ -1,0 +1,12 @@
+
+path: /content/data/yolo_dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Folding_Knife
+  1: Straight_Knife
+  2: Scissor
+  3: Utility_Knife
+  4: Multi-tool_Knife
